@@ -6,35 +6,19 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
+## WORKING PAPERS
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+"School retention and inequities in educational and earnings outcomes." (Job market paper)
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+> This paper uses the fuzzy RD method to study the long-term effects of grade retention on earnings outcomes by race and ethnicity in the context of Texas's third-grade retention policy. In spite of results indicating that grade retention improves reading scores in the short run, it reduces earnings in the long run. Moreover, the adverse long-term effects vary by race and ethnicity. Specifically, grade retention reduces earnings for Hispanic (by 24\%) and African American students (by 61\%). While white students are less likely to graduate high school as a result of retention, the adverse effects on earnings are inconclusive.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+"Did Trump’s “Chinese Virus” Tweets Result in Anti-Asian Behavior?" (Joint with Andy Cao and Jason M. Lindo), revise and resubmit to Journal of Urban Economics
 
-<nbsp>
+> We investigate whether Donald Trump's "Chinese Virus" tweets contributed to the rise of anti-Asian incidents. We find that the number of incidents spiked following Trump’s initial “Chinese Virus” tweets and the subsequent dramatic rise in internet search activity for the phrase. Results from an event-study analysis indicate that this spike in anti-Asian incidents was significantly more pronounced in counties that supported Donald Trump in the 2016 presidential election relative to those that supported Hillary Clinton. We estimate that the relative increase in anti-Asian incidents in Trump-supporting counties was over 12 times the baseline rate in such counties during the prior week.
 
-{% include base_path %}
+## WORK IN PROGRESS
 
-{% assign ordered_pages = site.research | sort:"order_number" %}
+"The Effect of Pollution on Human Capital Formation: Evidence from Wind Energy and Aviation Fuel" (Joint with Thao Duong)
 
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+"Tobacco 21 and Youth Substance Use" (Joint with Benjamin Hansen and Joseph J.Sabia)
+
