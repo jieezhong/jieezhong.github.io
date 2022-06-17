@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Jiee Zhong"
   avatar           : "jiee_phd4.png"
-  bio              : "Applied economist, Department of Economics, Texas A&M University"
+  bio              : "Applied economist, Texas A&M University"
   location         : "College Station, Texas"
   employer         :
   pubmed           :
@@ -259,19 +259,19 @@ timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 
 # Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+ # - jekyll-redirect-from
 # mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+# whitelist:
+ # - jekyll-paginate
+#  - jekyll-sitemap
+#  - jekyll-gist
+#  - jekyll-feed
+#  - jemoji
 
 
 # Archives
