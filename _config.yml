@@ -99,7 +99,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jieezhong"
+  github           : #"jieezhong"
   gitlab           : #"jayrobwilliams"
   google_plus      :
   keybase          :
@@ -266,7 +266,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
- whitelist:
+whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
