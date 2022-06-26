@@ -7,9 +7,9 @@ author_profile: true
 ---
 ## WORKING PAPERS
 
-"School retention and inequities in educational and earnings outcomes." (Job market paper)
+"Does the test-based grade retention policy exacerbate or mitigate racial and ethnic inequality?" (Job market paper)
 
-> This paper uses the fuzzy RD method to study the long-term effects of grade retention on earnings outcomes by race and ethnicity in the context of Texas's third-grade retention policy. In spite of results indicating that grade retention improves reading scores in the short run, it reduces earnings in the long run. Moreover, the adverse long-term effects vary by race and ethnicity. Specifically, grade retention reduces earnings for Hispanic (by 24\%) and African American students (by 61\%). While white students are less likely to graduate high school as a result of retention, the adverse effects on earnings are inconclusive.
+> This paper uses the fuzzy RD method to study the effects of grade retention on earnings and educational outcomes by race and ethnicity in Texas’s third-grade test-based retention policy. Despite results indicating that grade retention improves their reading scores in the short run, it adversely increases the days of absence, especially for African American students. Retention also increases the chance of being expelled and displayed in disciplinary alternative education program (DAEP). In the long run, third-grade retention unfavorably reduces earnings. The negative impacts on earnings are concentrated on African American and Hispanic students. Specifically, grade retention significantly reduces earnings at age 23 by 61% for African American students and by 24% for Hispanic students. While white students are less likely to graduate from high school because of retention, the adverse effects on earnings are inconclusive. 
 
 "Did Trump’s “Chinese Virus” Tweets Result in Anti-Asian Behavior?" (Joint with Andy Cao and Jason M. Lindo), revise and resubmit to Journal of Urban Economics
 
