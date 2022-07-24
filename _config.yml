@@ -77,15 +77,15 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
 author:
   name             : "Jiee Zhong"
   avatar           : "jiee_phd4.png"
-  bio              : "Economics PhD candidate, Texas A&M University"
-  location         : "College Station, Texas"
+  bio              : "Economics PhD candidate "
+  location         : "Texas A&M University, College Station, Texas"
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-4963-6240"
@@ -100,7 +100,7 @@ author:
   facebook         :
   foursquare       :
   github           : #"jieezhong"
-  gitlab           : #"jayrobwilliams"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   linkedin         : "jieezhong"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@JZ70727515"
