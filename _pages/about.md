@@ -1,14 +1,18 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
+excerpt: "about me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Education and environment play critical roles in changing one’s fate. I am interested to see whether and how educational policy and environment mitigate or exacerbate inequality between disadvantaged and advantaged groups.
+I am a Ph.D. candidate in the Economics Department at Texas A&M University.
 
-While it is well known that education helps reduce inequality, some educational policies exacerbate inequality. My dissertation research provides new causal evidence of the adverse impacts of third-grade retention policy on risk behaviors and labor market outcomes, especially for African American and Hispanic students. The results imply that third-grade retention exacerbates racial earnings inequality. My ongoing paper also explores the effects of environment, such as lead exposure and noise and light pollutions, on educational and labor market outcomes. My research agenda is also tied together by my interest in crime and health economics, which is reflected in my papers focusing on the effects of Donald Trump’s ”Chinese Virus” tweets on the rise of anti-Asian incidents and the Tobacco 21 laws on youth substance use.
+I am interested in studying public policies’ short and long-term impacts and how they impact inequality. My current work studies public policies’ impacts on education, health, and labor market outcomes, especially for disadvantaged populations.
+
+I am on the Job Market for the 2022-2023 academic year.
+
+Research Areas: education economics, environmental economics, health economics, and crime economics.
 
 
