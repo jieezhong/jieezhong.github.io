@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the Economics Department at Texas A&M University.
 
-I am interested in studying public policies’ short and long-term impacts and how they impact inequality. My current work studies public policies’ impacts on education, health, and labor market outcomes, especially for disadvantaged populations.
+I am interested in studying public policies’ short and long-term impacts and how they impact inequality. My current work studies the impacts of grade retention and lead pollution on education, and labor market outcomes, especially for disadvantaged populations.
 
 I am on the Job Market for the 2022-2023 academic year.
 
