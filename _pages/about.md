@@ -4,7 +4,6 @@ header:
   overlay_image: TAMU.jpg
 ---
 
-# About me
 
 I am a Ph.D. candidate in the Economics Department at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
 
