@@ -1,11 +1,8 @@
 ---
 permalink: /
-title: "Home" 
-excerpt: "About me"
-author_profile: true
-redirect_from:
-- /about/
-- /about.html
+title: "Welcome"
+header:
+  image: /assets/images/TAMU.jpg
 ---
 
 I am a Ph.D. candidate in the Economics Department at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
