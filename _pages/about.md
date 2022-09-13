@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 excerpt: blarg
 header:
-  overlay_image: /assets/images/TAMU.jpg
+  overlay_image: TAMU.jpg
 ---
 
 I am a Ph.D. candidate in the Economics Department at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
