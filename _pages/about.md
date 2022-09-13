@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: " "
 header:
   overlay_image: TAMU.jpg
 ---
