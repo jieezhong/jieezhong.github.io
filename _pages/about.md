@@ -6,8 +6,6 @@ author_profile: true
 redirect_from:
 - /about/
 - /about.html
-header:
-img src="https://images.app.goo.gl/tEWpgsP3QsRqFgrj8" width="50%" height="20%"
 ---
 
 I am a Ph.D. candidate in the Economics Department at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
