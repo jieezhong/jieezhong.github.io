@@ -12,6 +12,10 @@ I am interested in studying public policies’ short and long-term impacts and h
 
 I am on the Job Market for the 2022-2023 academic year.
 
-***Research Areas***: education economics, environmental economics, health economics, and crime economics.
+***Research Areas***: 
+- Education economics
+- Environmental economics
+- Health economics
+- Crime economics.
 
 
