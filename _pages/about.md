@@ -2,7 +2,7 @@
 permalink: /
 title: "Welcome"
 header:
-  image: /images/TAMU.jpg
+  image:/images/TAMU.jpg
 ---
 
 I am a Ph.D. candidate in the Economics Department at [Texas A&M University](https://liberalarts.tamu.edu/economics/) {:target="_blank"} in College Station.
