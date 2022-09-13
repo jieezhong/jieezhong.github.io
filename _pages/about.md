@@ -7,10 +7,10 @@ redirect_from:
 - /about/
 - /about.html
 header:
-  image: 
-     path: /assets/images/TAMU.jpg
-     width: 150
-     height: 50
+  image:
+  path: /assets/images/TAMU.jpg 
+  width: 150 
+  height: 50
  ---
 
 I am a Ph.D. candidate in the Economics Department at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
