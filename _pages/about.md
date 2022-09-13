@@ -7,7 +7,7 @@ redirect_from:
 - /about/
 - /about.html
 header:
-<img width=”250" height=”400" src=”https://raw.githubusercontent.com/asifsha/react-native-api-integration/master/demo/demoartist.gif" />
+image width="250" height="400" src="https://raw.githubusercontent.com/asifsha/react-native-api-integration/master/demo/demoartist.gif" 
 ---
 
 I am a Ph.D. candidate in the Economics Department at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
