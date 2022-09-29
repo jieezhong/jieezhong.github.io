@@ -8,9 +8,7 @@ header:
 
 I am a Ph.D. candidate in the Economics Department at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
 
-I am interested in studying public policies’ short and long-term impacts and how they impact inequality. My current work studies the impacts of grade retention and lead pollution on education and labor market outcomes, especially for disadvantaged populations.
-
-I am on the Job Market for the 2022-2023 academic year.
+My research interests span education economics, labor economics, environmental economics, crime economics, health economics, and public economics. Much of my research is tied together by my interest in the long-term effects of public policy on educational and labor market outcomes. While grade retention is commonly used as a panacea to improve the outcomes of low-achieving students, my dissertation research provides new causal evidence of the adverse impacts of grade retention on risk behavior and labor market outcomes. My ongoing paper explores the long-run effects of pollution on educational and labor market outcomes. My research agenda is also tied together by my interest in crime and health economics, which is reflected in my papers focusing on the effects of Donald Trump’s ”Chinese Virus” tweets on the rise of anti-Asian incidents and the Tobacco 21 laws on youth substance use.
 
 ***Research Areas***: 
 - Education economics
