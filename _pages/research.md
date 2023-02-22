@@ -15,7 +15,7 @@ author_profile: true
 <img src="https://github.com/jieezhong/jieezhong.github.io/blob/fe9ce802c902ee692fb80d3576f378c1876fb0f4/images/research/wage15y_all(ch).png" alt="Third-grade retention reduces earnings 15 years later" width="300" height="250">
 
  "Can Social Media Rhetoric Incite Hate Incidents? Evidence from Trump's "Chinese Virus" Tweets" (corresponding author, joint with Andy Cao and Jason M. Lindo), and 
- ***revised and resubmitted*** to Journal of Urban Economics: insights
+ ***revised and resubmitted*** to Journal of Urban Economics: insights. This paper is available at <a href="https://www.nber.org/papers/w30588"> NBER </a>.
 
 > Abstract: We investigate whether Donald Trump's "Chinese Virus" tweets contributed to the rise of anti-Asian incidents. We find that the number of incidents spiked following Trump’s initial “Chinese Virus” tweets and the subsequent dramatic rise in internet search activity for the phrase. Difference-in-differences and event-study analyses leveraging spatial variation indicates that this spike in anti-Asian incidents was significantly more pronounced in counties that supported Donald Trump in the 2016 presidential election relative to those that supported Hillary Clinton. We estimate that anti-Asian incidents spiked by 4000 percentage points in Trump-supporting counties, over and above the spike observed in Clinton-supporting counties. 
 
