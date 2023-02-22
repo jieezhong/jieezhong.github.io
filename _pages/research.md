@@ -12,7 +12,7 @@ author_profile: true
 > Abstract: This paper provides the first causal evidence of the effects of grade retention on labor market outcomes using Texas’ policy of retaining third graders who fail a reading test. Results show that grade retention reduces earnings 15 years later by $4513 (35%), raising violence and absenteeism and reducing high school graduation rates. These findings suggest that grade retention is ineffective in aiding struggling students to catch up academically and disadvantages them in the labor market. Moreover, higher retention rates among Black and Hispanic students, coupled with significant reductions in earnings, contribute to perpetuating racial earnings inequality.
 
 
-![Main Result |300x250](/images/research/wage15y_all(ch).png)
+![Main Result |300x250, 50%](/images/research/wage15y_all(ch).png)
 
  "Can Social Media Rhetoric Incite Hate Incidents? Evidence from Trump's "Chinese Virus" Tweets" (corresponding author, joint with Andy Cao and Jason M. Lindo), and 
  ***revised and resubmitted*** to Journal of Urban Economics: insights. This paper is available at <a href="https://www.nber.org/papers/w30588"> NBER </a>.
