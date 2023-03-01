@@ -9,7 +9,7 @@ author_profile: true
 
 "Early Grade Retention Harms Adult Earnings" (Job market paper)
 
-> Abstract: This paper provides the first causal evidence of the effects of grade retention on labor market outcomes using Texas’ policy of retaining third graders who fail a reading test. Results show that grade retention reduces earnings 15 years later by $4513 (35%), raising violence and absenteeism and reducing high school graduation rates. These findings suggest that grade retention is ineffective in aiding struggling students to catch up academically and disadvantages them in the labor market. Moreover, higher retention rates among Black and Hispanic students, coupled with significant reductions in earnings, contribute to perpetuating racial earnings inequality.
+> Abstract: This paper provides the first causal evidence of the effects of grade retention on labor market outcomes using Texas’ policy of retaining third graders who fail a reading test. The fuzzy regression discontinuity design estimates show that grade retention reduces earnings 15 years later by $4513 (35%), raising violence and absenteeism and reducing high school graduation rates. These findings suggest that grade retention is ineffective in aiding struggling students to catch up academically and disadvantages them in the labor market. Moreover, higher retention rates among Black and Hispanic students, coupled with significant reductions in earnings, contribute to perpetuating racial earnings inequality.
 
 <img src='/images/research/wage15y_all(ch).png' width='500'>
 
