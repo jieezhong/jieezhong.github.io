@@ -5,22 +5,23 @@ header:
   overlay_image: TAMU.jpg
 ---
 
+I am a Ph.D. candidate in the Department of Economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
 
-I am a Ph.D. student in the Department of Economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
+My research expertise lies at the intersection of education, labor, crime, environmental, and health economics. My research endeavors primarily shed light on the profound, long-term impact of early childhood education policies and school environments on key life outcomes such as education, risk behavior, and earnings.
 
-My research expertise lies at the intersection of education, labor, crime, and health economics. My primary focus is assessing the persistent effects of public policies on education, criminal activity, and labor market performance outcomes.
+In my significant job market paper, I investigated the deleterious effects of third-grade retention on labor income, education, and risk behaviors. Crucially, the findings underscore the augmentation of racial income inequality due to the disproportionate impact of this policy on Black and Hispanic students.
 
-In my job market paper, I examined the detrimental consequences of grade retention on labor market outcomes and risk behavior. I am undertaking research projects to explore the lasting impacts of lead pollution and the reclassification of English learners on educational, criminal, and labor market outcomes. Additionally, my working paper examines the relationship between social media rhetoric and hate incidents.
+Currently, I am broadening my research horizons by probing into the enduring effects of pre-kindergarten education programs, reclassification of English learners, exposure to lead pollution, and encounters with abusive teachers on children's long-term prospects.
+Beyond the realm of education economics, my expertise extends to crime economics, evidenced by a working paper investigating social media rhetoric's influence on the prevalence of hate incidents. 
 
-My research interests also extend to health economics, as evidenced by my ongoing research on the impact of the Tobacco 21 policy on youth behaviors and substance use.
-
-Overall, my research aims to contribute to a better understanding of the consequences of public policies and inform evidence-based policy decisions that promote positive outcomes in education, criminal activity, labor markets, and public health. By evaluating the long-term effects of public policies, my work aims to provide insights that can guide policymakers in developing more effective and sustainable policy interventions.
+Collectively, my research pursuits are geared towards enriching our understanding of the long-term effects of public policies. Through this endeavor, I aim to provide valuable insights that can be instrumental in fostering improved outcomes for children.
 
 ***Research Areas***: 
-- Education economics
-- Labor economics
-- Crime economics
-- Health economics
+- Education Economics
+- Labor Economics
+- Crime Economics
+- Environmental Economics
+- Health Economics
 
 
 
