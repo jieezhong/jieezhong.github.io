@@ -7,7 +7,7 @@ header:
 
 I am a Ph.D. candidate in the Department of Economics at [Texas A&M University](https://liberalarts.tamu.edu/economics/) in College Station.
 
-My research expertise lies at the intersection of education, labor, crime, environmental, and health economics. My research endeavors primarily shed light on the profound, long-term impact of early childhood education policies and school environments on key life outcomes such as education, risk behavior, and earnings.
+My research expertise lies at the intersection of education, labor, crime, environmental, and health economics. Much of my research is tied together by my interest in the long-term impact of early childhood education policies and school environments on key life outcomes such as education, risk behavior, and earnings.
 
 In my job market paper, I investigate the deleterious effects of third-grade retention on labor income, education, and risk behaviors. Crucially, the findings underscore the augmentation of racial income inequality due to the disproportionate impact of this policy on Black and Hispanic students.
 
