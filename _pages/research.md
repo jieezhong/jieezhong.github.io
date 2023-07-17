@@ -33,16 +33,16 @@ author_profile: true
 ## WORK IN PROGRESS
 
 
-***"The Spillover Effects of Holding Students Back a Grade"***
+"The Spillover Effects of Holding Students Back a Grade"
 
-***"The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation" (Joint with Thao Duong)***
+"The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation" (Joint with Thao Duong)
 
-***"The Lifelong Impact of Pre-Kindergarten Education" (Joint with Maya Mikdash)***
+"The Lifelong Impact of Pre-Kindergarten Education" (Joint with Maya Mikdash)
 
-***"Breaking the School-to-Prison Pipeline: The Role of Alternative Education" (Joint with Maya Mikdash)***
+"Breaking the School-to-Prison Pipeline: The Role of Alternative Education" (Joint with Maya Mikdash)
 
-***"Measuring the Negative Impacts of Teachers: Disciplined Teachers and Student Outcomes" (Joint with Maya Mikdash)***
+"Measuring the Negative Impacts of Teachers: Disciplined Teachers and Student Outcomes" (Joint with Maya Mikdash)
 
-***"Tobacco 21 and Youth Substance Use" (Joint with Benjamin Hansen and Joseph J.Sabia)***
+
 
 
