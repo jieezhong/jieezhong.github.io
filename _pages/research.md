@@ -19,7 +19,7 @@ author_profile: true
 
 <img src='/images/research/wage15y_all(ch).png' width='400'>
 
-> 
+
 > ***"Lead in the Air: Unraveling the Long-Term Impacts of Lead Exposure"*** (Joint with Thao Duong)
 
 > Abstract: We study the enduring influence of early childhood lead exposure on long-term earnings and educational outcomes while illuminating the mechanisms behind these effects. Capitalizing on a unique natural experiment resulting from the decline in leaded gasoline use in piston-engine aircraft (PEA) post 9/11, we show that even a slight reduction in lead exposure can significantly bolster earnings between ages 23 and 29 among students in grades 4 to 8. Further results demonstrate that a moderate reduction in lead exposure increases test scores, improves high school graduation rates, increases university or college enrollment, and has no significant effect on risky behaviors. 
