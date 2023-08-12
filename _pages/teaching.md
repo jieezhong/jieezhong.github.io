@@ -2,7 +2,7 @@
 permalink: /teaching/
 title: "Teaching"
 header:
-  overlay_image: jenner_beach5.jpg
+  overlay_image: mountain77.jpg
  
 ---
 
