@@ -3,7 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-
+header:
+  overlay_image: jenner_beach4.jpg
+  
 ---
 ## PUBLICATION
 
