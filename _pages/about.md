@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: " About Me"
 header:
   overlay_image: beach_oregon3.jpg
 ---
