@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 header:
-  overlay_image: jenner_beach4.jpg
+  overlay_image: jenner_beach5.jpg
   
 ---
 ## PUBLICATION
