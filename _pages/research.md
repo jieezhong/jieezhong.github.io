@@ -11,13 +11,15 @@ header:
 
 ***"Can Social Media Rhetoric Incite Hate Incidents? Evidence from Trump's "Chinese Virus" Tweets"***
 
- Journal of Urban Economics, forthcoming [Pre-publication Version](/files/pdf/TrumpTweets.pdf), (Corresponding Author, Joint with Andy Cao and Jason M. Lindo)
+ <ins>Journal of Urban Economics</ins>, forthcoming. Corresponding Author, Joint with Andy Cao and Jason M. Lindo. [Pre-publication Version](/files/pdf/TrumpTweets.pdf)
 
 > Abstract: We investigate whether Donald Trump's "Chinese Virus" tweets contributed to the rise of anti-Asian incidents. We find that the number of incidents spiked following Trump’s initial “Chinese Virus” tweets and the subsequent dramatic rise in internet search activity for the phrase. Difference-in-differences and event-study analyses leveraging spatial variation indicate that this spike in anti-Asian incidents was significantly more pronounced in counties that supported Donald Trump in the 2016 presidential election relative to those that supported Hillary Clinton. We estimate that anti-Asian incidents spiked by approximately 4200 percent in Trump-supported counties compared to an increase of approximately 200 percent in Clinton-supported counties. 
 
 ## WORKING PAPERS
 
-***"Early Grade Retention Harms Adult Earnings" (Job Market Paper), Revise and Resubmit to <ins> American Economic Journal: Applied Economics </ins>***
+***"Early Grade Retention Harms Adult Earnings" (Job Market Paper)***
+
+Revise and Resubmit to <ins> American Economic Journal: Applied Economics </ins>
 
 > Abstract: This paper provides the first causal evidence of the effects of grade retention on labor market outcomes using Texas’ policy of retaining third graders who fail a reading test. The fuzzy regression discontinuity design estimates show that grade retention reduces earnings 15 years later by $4513 (35%), raising violence and absenteeism and reducing high school graduation rates. These findings suggest that grade retention is ineffective in aiding struggling students to catch up academically and disadvantages them in the labor market. Moreover, higher retention rates among Black and Hispanic students, coupled with significant reductions in earnings, contribute to perpetuating racial earnings inequality.
 
