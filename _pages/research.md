@@ -23,9 +23,6 @@ Revise and Resubmit to <ins> American Economic Journal: Applied Economics </ins>
 
 > Abstract: This paper provides the first causal evidence of the effects of grade retention on labor market outcomes using Texas’ policy of retaining third graders who fail a reading test. The fuzzy regression discontinuity design estimates show that grade retention reduces earnings 15 years later by $4513 (35%), raising violence and absenteeism and reducing high school graduation rates. These findings suggest that grade retention is ineffective in aiding struggling students to catch up academically and disadvantages them in the labor market. Moreover, higher retention rates among Black and Hispanic students, coupled with significant reductions in earnings, contribute to perpetuating racial earnings inequality.
 
-<img src='/images/research/wage15y_all(ch).png' width='400'>
-
-
 > ***"Lead in the Air: Unraveling the Long-Term Impacts of Lead Exposure"*** (Joint with Thao Duong)
 
 > Abstract: We study the enduring influence of early childhood lead exposure on long-term earnings and educational outcomes while illuminating the mechanisms behind these effects. Capitalizing on a unique natural experiment resulting from the decline in leaded gasoline use in piston-engine aircraft (PEA) post 9/11, we show that even a slight reduction in lead exposure can significantly bolster earnings between ages 23 and 29 among students in grades 4 to 8. Further results demonstrate that a moderate reduction in lead exposure increases test scores, improves high school graduation rates, increases university or college enrollment, and has no significant effect on risky behaviors. 
