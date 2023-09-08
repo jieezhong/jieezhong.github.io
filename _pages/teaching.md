@@ -10,8 +10,9 @@ header:
     - [Syllabus](/files/pdf/teaching/ECON323_Syllabus_Summer_S22.pdf)
 - Econometrics:  Ph.D. Qualifier Camp (Summer 2022)
 ## Teaching Assistant
+- ECON 452: International Trade Theory & Policy (Fall 2023)
 - ECON 470: Data Science for Economic and Social Issues (Spring 2023)
 - ECON 676: Applied Microeconometrics (Ph.D. level course, with recitations, Spring 2022)
-- ECMT 461: Econometrics (2021 Fall)
-- ECON 412: Public Finance(2020 Spring, 2019 Fall, 2019 Spring)
+- ECMT 461: Econometrics (Fall 2021)
+- ECON 412: Public Finance (Spring 2020, Fall 2019, Spring 2019)
 
