@@ -35,6 +35,7 @@ Revise and Resubmit to <ins> American Economic Journal: Applied Economics </ins>
 
 ## WORK IN PROGRESS
 
+"The Impact of Principal-Student Ethnic Match: Evidence from Grade Promotion Decisions"
 
 "The Spillover Effects of Holding Students Back a Grade"
 
