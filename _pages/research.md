@@ -37,8 +37,6 @@ Revise and Resubmit to <ins> American Economic Journal: Applied Economics </ins>
 
 "The Impact of Principal-Student Ethnic Match: Evidence from Grade Promotion Decisions"
 
-"The Spillover Effects of Holding Students Back a Grade"
-
 "The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation" (Joint with Thao Duong)
 
 "The Lifelong Impact of Pre-Kindergarten Education" (Joint with Maya Mikdash)
