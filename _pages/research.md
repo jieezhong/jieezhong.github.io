@@ -19,7 +19,7 @@ header:
 
 ***"Early Grade Retention Harms Adult Earnings" ([Job Market Paper](/files/pdf/JMP.pdf))***
 
-Revise and Resubmit to <ins> American Economic Journal: Applied Economics </ins>
+Revise and Resubmit to the <ins> American Economic Journal: Applied Economics </ins>
 
 > Abstract: This paper provides the first causal evidence of the effects of grade retention on the labor market outcomes using Texas’ policy of retaining third graders who fail a reading test. The fuzzy regression discontinuity design estimates show that third-grade retention significantly reduces adult earnings. Although the policy aims to improve academic achievement, the results demonstrate that third-grade retention lowers high school graduation rates without improving college outcomes and aggravates absenteeism and violent behavior.
 
