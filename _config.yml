@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiee Zhong"
 title_separator          : "-"
 name                     : &name "Jiee Zhong"
-description              : &description "PhD candidate at Texas A&M University, College Station"
+description              : &description "Assistant Professor at Miami University"
 url                      : https://jieezhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jieezhong/jieezhong.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Jiee Zhong"
   avatar           : "Jiee_headshot.jpg"
-  bio              : "Economics PhD candidate "
-  location         : "Texas A&M University"
+  bio              : "Assistant Professor of Economics"
+  location         : "Miami University"
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-4963-6240"
   googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "jieezhong@tamu.edu"
+  email            : "jieezhong@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
