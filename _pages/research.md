@@ -33,9 +33,12 @@ Revised and Resubmited to the <ins> American Economic Journal: Applied Economics
 
 ## WORK IN PROGRESS
 
-"The Impact of Principal-Student Ethnic Match: Evidence from Grade Promotion Decisions"
+"The Impact of Principal, Teacher, and Student Ethnic Match: Evidence from Grade Promotion Decisions"
+
 "The Impact of English Proficient Reclassification on Long-Term Educational and Earnings Outcomes"(Joint with Graduate Students Yayun Chen and Sijia Zhang)
+
 "The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation" (Joint with Graduate Student, Thao Duong)
+
 "The Lifelong Impact of Pre-Kindergarten Education" (Joint with Graduate Student, Maya Mikdash, Data Approved)
 
 
