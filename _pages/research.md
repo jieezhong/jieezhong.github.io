@@ -23,7 +23,7 @@ Revised and Resubmited to the <ins> American Economic Journal: Applied Economics
 
 > Abstract: This paper provides the first causal evidence of the effects of grade retention on the labor market outcomes using Texas’ policy of retaining third graders who fail a reading test. The fuzzy regression discontinuity design estimates show that third-grade retention significantly reduces adult earnings. Although the policy aims to improve academic achievement, the results demonstrate that third-grade retention lowers high school graduation rates without improving college outcomes and aggravates absenteeism and violent behavior.
 
-***" Grade Retention"*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Under Review)
+***"Grade Retention"*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Under Review)
 
 ***"Lead in the Air: Unraveling the Long-Term Impacts of Lead Exposure"*** (Joint with Graduate Student, Thao Duong)
 
