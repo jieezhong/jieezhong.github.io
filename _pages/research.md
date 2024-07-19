@@ -19,29 +19,25 @@ header:
 
 ***"Early Grade Retention Harms Adult Earnings" ([Job Market Paper](/files/pdf/JMP.pdf))***
 
-Revise and Resubmit to the <ins> American Economic Journal: Applied Economics </ins>
+Revised and Resubmited to the <ins> American Economic Journal: Applied Economics </ins>
 
 > Abstract: This paper provides the first causal evidence of the effects of grade retention on the labor market outcomes using Texas’ policy of retaining third graders who fail a reading test. The fuzzy regression discontinuity design estimates show that third-grade retention significantly reduces adult earnings. Although the policy aims to improve academic achievement, the results demonstrate that third-grade retention lowers high school graduation rates without improving college outcomes and aggravates absenteeism and violent behavior.
+
+***" Grade Retention"*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Under Review)
 
 ***"Lead in the Air: Unraveling the Long-Term Impacts of Lead Exposure"*** (Joint with Graduate Student, Thao Duong)
 
 > Abstract: We examine the long-term impact of early childhood lead exposure on earnings and educational outcomes, as well as the underlying mechanisms. Leveraging a unique natural experiment—the decline in the use of leaded gasoline in piston-engine aircraft post 9/11—we find that even minor reductions in lead levels lead to significant improvements in earnings for individuals aged 23 to 29 who were students in grades 4 to 8 at the time of exposure. Additional findings indicate that these reductions also positively affect test scores and high school graduation rates, and increase post-secondary education enrollment, but do not significantly alter behavioral outcomes.
 
 
-***"The Impact of English Proficient Reclassification on Long-Term Educational and Earnings Outcomes"*** (Joint with Graduate Students Yayun Chen and Sijia Zhang)
-
-> Abstract: Despite the fact that one in ten U.S. students is an English learner, the long-term effects of English Learner (EL) status on life outcomes remain largely unexplored. While existing research provides inconsistent findings on short-term outcomes like test scores and high school graduation, the long-term impacts on earnings and post-secondary education are notably under-studied. This paper fills this critical knowledge gap by leveraging data from the Texas Education Research Center, which links educational histories to labor market outcomes. Exploiting a quasi-random variation at the 'advanced high' cutoff in reading tests—a prerequisite for reclassification—the Fuzzy Regression Discontinuity Design reveals that students achieving English proficiency by grade 3 experience a substantial increase in earnings at age 25, as well as improved high school graduation rates.
-
 
 ## WORK IN PROGRESS
 
 "The Impact of Principal-Student Ethnic Match: Evidence from Grade Promotion Decisions"
-
+"The Impact of English Proficient Reclassification on Long-Term Educational and Earnings Outcomes"(Joint with Graduate Students Yayun Chen and Sijia Zhang)
 "The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation" (Joint with Graduate Student, Thao Duong)
-
 "The Lifelong Impact of Pre-Kindergarten Education" (Joint with Graduate Student, Maya Mikdash, Data Approved)
 
-"Breaking the School-to-Prison Pipeline: The Role of Alternative Education" (Joint with Graduate Student, Maya Mikdash)
 
 
 
