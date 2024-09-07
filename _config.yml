@@ -1,5 +1,4 @@
 # Welcome to Jekyll!
-#
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -189,17 +188,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -211,15 +199,6 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
     values:
       layout: single
       author_profile: true
@@ -243,7 +222,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+# (Jiee) permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -251,17 +230,17 @@ timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+# Jiee - jekyll-paginate
+# Jiee  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+# Jiee  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
+# Jiee  - jekyll-paginate
+# Jiee  - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+# Jiee  - jekyll-feed
   - jemoji
 
 
@@ -275,12 +254,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# Jiee category_archive:
+# Jiee  type: liquid
+# Jiee  path: /categories/
+# Jiee tag_archive:
+# Jiee  type: liquid
+# Jiee  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
