@@ -6,11 +6,11 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-#{% if post.id %}
-#  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-#{% else %}
-#  {% assign title = post.title %}
-#{% endif %}
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -26,20 +26,14 @@
       </div>
     {% endif %}
 
-   
-    
-    {% if post.read_time %}
-    {% elsif post.read_time and post.collection == 'posts' %}
-      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    </h2>
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-     {% endif %}
-      
-      <!-- citation and icon code -->
-      
-    
+    {% endif %}
+
     {% if post.excerpt and post.collection == 'research' and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">
