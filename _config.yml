@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-4963-6240"
-  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=IrZUai4AAAAJ&hl=en"
   email            : "jieezhong@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"jieezhong"
+  github           : #"jieezhong.github.io"
   gitlab           : 
   google_plus      :
   keybase          :
@@ -187,7 +187,7 @@ collections:
 
 
 # Defaults
-defaults:
+# defaults:
   # _pages
   - scope:
       path: ""
