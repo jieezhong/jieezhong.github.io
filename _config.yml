@@ -234,7 +234,7 @@ plugins:
 # Jiee  - jekyll-sitemap
   - jekyll-gist
 # Jiee  - jekyll-feed
-  - jekyll-redirect-from
+#  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
 # Jiee  - jekyll-paginate
