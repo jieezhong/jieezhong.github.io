@@ -5,276 +5,95 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Jiee Zhong"
-title_separator          : "-"
-name                     : &name "Jiee Zhong"
-description              : &description "Assistant Professor at Miami University"
-url                      : https://jieezhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jieezhong/jieezhong.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+locale: "en-US"
+title: "Jiee Zhong"
+title_separator: "-"
+name: &name "Jiee Zhong"
+description: &description "Assistant Professor at Miami University"
+url: https://jieezhong.github.io
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "jieezhong/jieezhong.github.io"
+teaser: "" # filename of teaser fallback teaser image placed in /images/, e.g., "500x300.png"
+breadcrumbs: false
+words_per_minute: 160
+future: true
+read_more: "disabled"
+talkmap_link: false
+
+# Comments
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+  provider: false
+
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields: ['name', 'email', 'url', 'message']
+  branch: "master" # or "gh-pages"
+  commitMessage: "New comment."
+  filename: comment-{@timestamp}
+  format: "yml"
+  moderation: true
+  path: "_data/comments/{options.slug}"
+  requiredFields: ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email: "md5"
   generatedFields:
     date:
-      type               : "date"
+      type: "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+        format: "iso8601"
 
 # Social Sharing
 twitter:
-  username               : ZhongJiee
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : #profile.png # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : Person # Person or Organization (defaults to Person)
-  name                   : Jiee Zhong # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+  username: ZhongJiee
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider: "google-universal"
   google:
-    tracking_id          : 
-  goatcounter:
-    code		 : 
-
+    tracking_id:
 
 # Site Author
 author:
-  name             : "Jiee Zhong"
-  avatar           : "Jiee_headshot.jpg"
-  bio              : "Assistant Professor of Economics"
-  location         : "Miami University"
-  employer         :
-  pubmed           :
-  orcid            : "https://orcid.org/0000-0002-4963-6240"
-  googlescholar    : "https://scholar.google.com/citations?user=IrZUai4AAAAJ&hl=en"
-  email            : "jieezhong@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : #"jieezhong.github.io"
-  gitlab           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "jieezhong"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : "@ZhongJiee"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  name: "Jiee Zhong"
+  avatar: "Jiee_headshot.jpg"
+  bio: "Assistant Professor of Economics"
+  location: "Miami University"
+  email: "jieezhong@gmail.com"
+  linkedin: "jieezhong"
+  twitter: "@ZhongJiee"
 
 # Reading Files
 include:
   - .htaccess
   - _pages
   - files
+
 exclude:
   - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
   - .bundle
   - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
   - node_modules
-  - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# Collections
-collections:
-#  publications:
-#    output: true
- #   permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
-
-
-
-# Defaults
- defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
-
-# Outputting
-# (Jiee) permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-
-# Plugins
-plugins:
-# Jiee - jekyll-paginate
-# Jiee  - jekyll-sitemap
-  - jekyll-gist
-# Jiee  - jekyll-feed
-#  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-# Jiee  - jekyll-paginate
-# Jiee  - jekyll-sitemap
-  - jekyll-gist
-# Jiee  - jekyll-feed
-  - jemoji
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-# Jiee category_archive:
-# Jiee  type: liquid
-# Jiee  path: /categories/
-# Jiee tag_archive:
-# Jiee  type: liquid
-# Jiee  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
+  style: compressed
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
