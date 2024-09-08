@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "About Me"
-permalink: /about/
+permalink: /
 author_profile: true
 header:
   overlay_image: beach_oregon3.jpg
