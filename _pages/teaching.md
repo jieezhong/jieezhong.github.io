@@ -1,9 +1,13 @@
 ---
+layout: archive
 permalink: /teaching/
 title: "Teaching"
+author_profile: true
 header:
   overlay_image: mountain8.jpg
 ---
+
+
 
 ## Instructor
 - ECON 323: Microeconomics Theory (Summer 2022)
