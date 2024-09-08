@@ -10,9 +10,9 @@ header:
 
 
 ## Instructor
-- ECON 323: Microeconomics Theory (Summer 2022)
-    - [Syllabus](/files/pdf/teaching/ECON323_Syllabus_Summer_S22.pdf)
-- Econometrics:  Ph.D. Qualifier Camp (Summer 2022)
+- ECON 315: Intermediate Microeconomic Theory (Fall 2024)
+- ECON 323: Intermediate Microeconomic Theory (Summer 2022)
+- Econometrics: Ph.D. Qualifier Camp (Summer 2022)
 ## Teaching Assistant
 - ECON 452: International Trade Theory & Policy (Fall 2023)
 - ECON 470: Data Science for Economic and Social Issues (Spring 2023)
