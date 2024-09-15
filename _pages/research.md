@@ -13,6 +13,8 @@ header:
 
  <ins>Journal of Urban Economics</ins>. [Published Version](https://www.sciencedirect.com/science/article/pii/S0094119023000608). Corresponding Author, Joint with Andy Cao and Jason M. Lindo. 
 
+> Abstract: We investigate whether Donald Trump's "Chinese Virus" tweets contributed to the rise of anti-Asian incidents. We find that the number of incidents spiked following Trump's initial “Chinese Virus” tweets and the subsequent dramatic rise in internet search activity for the phrase. Difference-in-differences and event-study analyses leveraging spatial variation indicate that this spike in anti-Asian incidents was significantly more pronounced in counties that supported Donald Trump in the 2016 presidential election relative to those that supported Hillary Clinton. We estimate that anti-Asian incidents spiked by approximately 4200% in Trump-supported counties compared to an increase of approximately 200% in Clinton-supported counties.
+
 ## WORKING PAPERS
 
 ***"Early Grade Retention Harms Adult Earnings" ([Job Market Paper](/files/pdf/JMP_2024_Miami.pdf))***
