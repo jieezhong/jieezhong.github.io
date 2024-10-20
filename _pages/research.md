@@ -37,7 +37,7 @@ The Impact of Principal, Teacher, and Student Race Match: Evidence from Grade Pr
 
 The Effects of Free Pre-Kindergarten Education (Joint with Maya Mikdash)
 
-Abortion Access and Inequalities in Education and Labor Market Outcomes: Evidence from Texas (Joint with Riley Acton and James Flynn)
+Abortion Access and Inequalities in Education and Labor Market Outcomes: Evidence from Texas Policy Changes (Joint with Riley Acton and James Flynn)
 
 The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation (Joint with Thao Duong)
 
