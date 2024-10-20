@@ -33,13 +33,15 @@ Revised and Resubmited to the <ins> American Economic Journal: Applied Economics
 
 ## WORK IN PROGRESS
 
-The Impact of Principal, Teacher, and Student Ethnic Match: Evidence from Grade Promotion Decisions
+The Impact of Principal, Teacher, and Student Ethnic Match: Evidence from Grade Promotion Decisions (Joint with Kendall J. Kennedy and Simon ter Meulen)
+
+The Effects of Free Pre-Kindergarten Education (Joint with Maya Mikdash)
+
+Abortion Access and Inequalities in Education and Labor Market Outcomes: Evidence from Texas (Joint with Riley Acton and James Flynn)
 
 The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation (Joint with Thao Duong)
 
-The Lifelong Impact of Free Pre-Kindergarten Education (Joint with Maya Mikdash)
-
-The Long-Term Effects of English Proficiency Reclassification (Joint with Yayun Chen and Sijia Zhang)
+The Effects of Reclassifying English Learners as Proficient on Long-Term Educational and Earnings Outcomes (Joint with Yayun Chen and Sijia Zhang)
 
 
 
