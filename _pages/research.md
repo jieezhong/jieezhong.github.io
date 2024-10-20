@@ -33,7 +33,7 @@ Revised and Resubmited to the <ins> American Economic Journal: Applied Economics
 
 ## WORK IN PROGRESS
 
-The Impact of Principal, Teacher, and Student Ethnic Match: Evidence from Grade Promotion Decisions (Joint with Kendall J. Kennedy and Simon ter Meulen)
+The Impact of Principal, Teacher, and Student Race Match: Evidence from Grade Promotion Decisions (Joint with Kendall J. Kennedy and Simon ter Meulen)
 
 The Effects of Free Pre-Kindergarten Education (Joint with Maya Mikdash)
 
