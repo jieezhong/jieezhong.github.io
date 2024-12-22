@@ -17,7 +17,7 @@ header:
 
 ## WORKING PAPERS
 
-***Early Grade Retention Harms Adult Earnings ([Job Market Paper](/files/pdf/JMP_2024_Miami.pdf))***
+***[Early Grade Retention Harms Adult Earnings](/files/pdf/JMP_2024_Miami.pdf)***
 
 Revised and Resubmitted to the <ins> American Economic Journal: Applied Economics </ins>
 
