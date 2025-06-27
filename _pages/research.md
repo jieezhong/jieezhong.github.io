@@ -25,9 +25,9 @@ Revised and Resubmitted (2nd Round) to the <ins> American Economic Journal: Appl
 
 ***Grade Retention*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Under Review)
 
-***Lead in the Air: Unraveling the Long-Term Impacts of Lead Exposure*** (Joint with Thao Duong)
+***Lead in the Air: New Evidence from Piston-Engine Aircraft Emissions*** (Joint with Thao Duong)
 
-> Abstract: This paper investigates the short- and long-term effects of lead exposure from kindergarten through third grade, leveraging the unexpected decline in lead emissions following the reduced operation of piston-engine aircraft after the 9/11 attacks as a natural experiment. Using detailed individual-level administrative data from the Texas ERC, we estimate the causal impact of lead exposure on educational achievement, disciplinary incidents, and earnings. Our results show that increased lead exposure during early childhood significantly impairs educational outcomes, as evidenced by lower test scores, reduced high school graduation rates, and decreased college enrollment. Additionally, higher lead exposure leads to an increase in disciplinary incidents, including severe offenses such as violence and crime. Finally, we find that lead exposure has a lasting negative impact on labor market outcomes, leading to diminished earnings in adulthood.
+> Abstract: Does lead pollution from piston engine aircraft (PEA) pose risks to children’s development? This paper provides the first causal evidence on the impact of lead emissions from PEA on both short- and long-term educational and labor market outcomes. We implement a difference-in-differences strategy that leverages a sharp increase in PEA activity in Texas after 2007 and cross-school variation in proximity to lead exposure. Our results indicate that an increase of 80,000 PEA flights leads to a 0.03 standard deviation decline in standardized test scores and a 0.07 percentage point reduction in school attendance. In contrast, we find no statistically significant effects on high school graduation, college enrollment, or early-career earnings.
 
 
 
