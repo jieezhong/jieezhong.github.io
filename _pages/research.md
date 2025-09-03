@@ -17,9 +17,9 @@ header:
 
 ## WORKING PAPERS
 
-***[Early Grade Retention Harms Adult Earnings](/files/pdf/JMP_May2025.pdf)***
+***[Early Grade Retention Harms Adult Earnings](/files/pdf/JMP.pdf)***
 
-Revised and Resubmitted (2nd Round) to the <ins> American Economic Journal: Applied Economics </ins>
+Conditional acceptance at the <ins> American Economic Journal: Applied Economics </ins>
 
 > Abstract: This paper presents the first causal evidence of the effects of grade retention on labor market outcomes and post-secondary educational attainment, analyzing a reading test-based retention policy in Texas. Employing a fuzzy regression discontinuity design, the study finds that third-grade retention significantly reduces the average earnings between ages 23 and 25 by $3,512 (22%). While retention initially increases test scores, these gains diminish over time. Moreover, retention increases school absence, violence, and crime. It further reduces the likelihood of high school graduation but does not affect college enrollment, graduation, the timing of these outcomes, or the selectivity of college attended. 
 
@@ -33,13 +33,15 @@ Revised and Resubmitted (2nd Round) to the <ins> American Economic Journal: Appl
 
 ## WORK IN PROGRESS
 
-The Effects of Free Pre-Kindergarten Education (Joint with Maya Mikdash)
-
-The Impact of Principal, Teacher, and Student Race Match: Evidence from Grade Promotion Decisions (Joint with Kendall J. Kennedy and Simon ter Meulen)
+The Effect of Access to Pre-Kindergarten on Long-Term Educational and Labor Market Outcomes (Joint with Maya Mikdash)
 
 Motivation or Stigma? Evaluating the Effects of Grade Retention Policy (Joint with Kendall J. Kennedy and Simon ter Meulen)
 
-Abortion Access and Inequalities in Education and Labor Market Outcomes: Evidence from Texas Policy Changes (Joint with Riley Acton and James Flynn)
+The Impacts of Grade Retention Policy: Evidence on Peer Composition, Tracking, and Educator Preferences (Joint with Kendall J. Kennedy, Simon ter Meulen, Umut Özek)
+
+Access to Family Planning Services and Inequalities in Education and Labor Market Outcomes” (With Riley Acton, James Flynn, Daniel Marthey, Maranna Yoder)
+
+The Hidden Costs of Low-Level Lead Exposure: Evidence on Infant Health (Joint with Tengda Gong)
 
 The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation (Joint with Thao Duong)
 
