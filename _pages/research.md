@@ -37,9 +37,9 @@ The Effect of Access to Pre-Kindergarten on Long-Term Educational and Labor Mark
 
 Motivation or Stigma? Evaluating the Incentive Effects of Grade Retention Policy (Joint with Kendall J. Kennedy and Simon ter Meulen)
 
-The Impacts of Grade Retention Policy: Evidence on Peer Composition, Tracking, and Educator Preferences (Joint with Kendall J. Kennedy, Simon ter Meulen, Umut Özek)
+The Impacts of Grade Retention Policy: Evidence on Peer Composition, Tracking, and Educator Preferences (Joint with Kendall J. Kennedy, Simon ter Meulen, and Umut Özek)
 
-Access to Family Planning Services and Inequalities in Education and Labor Market Outcomes” (With Riley Acton, James Flynn, Daniel Marthey, Maranna Yoder)
+Access to Family Planning Services and Inequalities in Education and Labor Market Outcomes” (With Riley Acton, James Flynn, Daniel Marthey, and Maranna Yoder)
 
 The Hidden Costs of Low-Level Lead Exposure: Evidence on Infant Health (Joint with Tengda Gong)
 
