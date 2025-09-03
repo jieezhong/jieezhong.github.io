@@ -35,7 +35,7 @@ Conditional acceptance at the <ins> American Economic Journal: Applied Economics
 
 The Effect of Access to Pre-Kindergarten on Long-Term Educational and Labor Market Outcomes (Joint with Maya Mikdash)
 
-Motivation or Stigma? Evaluating the Effects of Grade Retention Policy (Joint with Kendall J. Kennedy and Simon ter Meulen)
+Motivation or Stigma? Evaluating the Incentive Effects of Grade Retention Policy (Joint with Kendall J. Kennedy and Simon ter Meulen)
 
 The Impacts of Grade Retention Policy: Evidence on Peer Composition, Tracking, and Educator Preferences (Joint with Kendall J. Kennedy, Simon ter Meulen, Umut Özek)
 
