@@ -21,7 +21,7 @@ header:
 
 Conditional acceptance at the <ins> American Economic Journal: Applied Economics </ins>
 
-> Abstract: This paper presents the first causal evidence of the effects of grade retention on labor market outcomes and post-secondary educational attainment, analyzing a reading test-based retention policy in Texas. Employing a fuzzy regression discontinuity design, the study finds that third-grade retention significantly reduces the average earnings between ages 23 and 25 by $3,512 (22%). While retention initially increases test scores, these gains diminish over time. Moreover, retention increases school absence, violence, and crime. It further reduces the likelihood of high school graduation but does not affect college enrollment, graduation, the timing of these outcomes, or the selectivity of college attended. 
+> Abstract: This paper provides new causal evidence on the effects of grade retention on educational attainment, behavioral outcomes, and labor market performance by analyzing Texas's reading test-based retention policy. Using a fuzzy regression discontinuity design, I find that third-grade retention significantly reduces annual earnings at age 26 by $3,477 (19%). While temporarily improving test scores, retention increases absenteeism, violent behavior, and juvenile crime, and reduces the likelihood of high school graduation. Moreover, retained students exhibit higher community college enrollment but lower public university attendance, though neither estimate is statistically significant.
 
 ***Grade Retention*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Under Review)
 
