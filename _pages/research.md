@@ -25,6 +25,10 @@ Conditional acceptance at the <ins> American Economic Journal: Applied Economics
 
 ***Grade Retention*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Under Review)
 
+***The Effect of Access to Pre-Kindergarten on Long-Term Educational and Labor Market Outcomes*** (Joint with Maya Mikdash)
+
+> Abstract: This paper provides new causal evidence on the long-term effects of free prekindergarten access on educational attainment and labor market outcomes. We exploit quasi-random variation from the phased rollout of a 1985 Texas policy that mandated free prekindergarten for disadvantaged children, conditional on the presence of at least 15 eligible students. Using longitudinal administrative data from the Texas ERC, we find precise null effects of access to free Pre-K on labor market outcomes, such as employment and earnings until 23 years after Pre-K. Similarly, we show that access to free Pre-K does not affect the likelihood of graduating high-school or attending college. The null effects are in line with the lack of effects on short term educational and behavioral outcomes.
+
 ***Lead in the Air: New Evidence from Piston-Engine Aircraft Emissions*** (Joint with Thao Duong)
 
 > Abstract: Does lead pollution from piston engine aircraft (PEA) pose risks to children’s development? This paper provides the first causal evidence on the impact of lead emissions from PEA on both short- and long-term educational and labor market outcomes. We implement a difference-in-differences strategy that leverages a sharp increase in PEA activity in Texas after 2007 and cross-school variation in proximity to lead exposure. Our results indicate that an increase of 80,000 PEA flights leads to a 0.03 standard deviation decline in standardized test scores and a 0.07 percentage point reduction in school attendance. In contrast, we find no statistically significant effects on high school graduation, college enrollment, or early-career earnings.
@@ -33,7 +37,7 @@ Conditional acceptance at the <ins> American Economic Journal: Applied Economics
 
 ## WORK IN PROGRESS
 
-The Effect of Access to Pre-Kindergarten on Long-Term Educational and Labor Market Outcomes (Joint with Maya Mikdash)
+
 
 Motivation or Stigma? Evaluating the Incentive Effects of Grade Retention Policy (Joint with Kendall J. Kennedy and Simon ter Meulen)
 
