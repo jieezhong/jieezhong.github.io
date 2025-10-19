@@ -23,7 +23,7 @@ Conditional acceptance at the <ins> American Economic Journal: Applied Economics
 
 > Abstract: This paper provides new causal evidence on the effects of grade retention on educational attainment, behavioral outcomes, and labor market performance by analyzing Texas's reading test-based retention policy. Using a fuzzy regression discontinuity design, I find that third-grade retention significantly reduces annual earnings at age 26 by $3,477 (19%). While temporarily improving test scores, retention increases absenteeism, violent behavior, and juvenile crime, and reduces the likelihood of high school graduation. Moreover, retained students exhibit higher community college enrollment but lower public university attendance, though neither estimate is statistically significant.
 
-***Grade Retention*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Under Review)
+***Grade Retention*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Accepted)
 
 ***The Effect of Access to Pre-Kindergarten on Long-Term Educational and Labor Market Outcomes*** (Joint with Maya Mikdash)
 
