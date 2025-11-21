@@ -7,7 +7,7 @@ header:
   overlay_image: jenner_beach5.jpg
   
 ---
-## PUBLICATION
+## PUBLICATIONS
 
 ***[Can Social Media Rhetoric Incite Hate Incidents? Evidence from Trump's "Chinese Virus" Tweets](https://www.sciencedirect.com/science/article/pii/S0094119023000608)***
 
@@ -15,19 +15,24 @@ header:
 
 > Abstract: We investigate whether Donald Trump's "Chinese Virus" tweets contributed to the rise of anti-Asian incidents. We find that the number of incidents spiked following Trump's initial “Chinese Virus” tweets and the subsequent dramatic rise in internet search activity for the phrase. Difference-in-differences and event-study analyses leveraging spatial variation indicate that this spike in anti-Asian incidents was significantly more pronounced in counties that supported Donald Trump in the 2016 presidential election relative to those that supported Hillary Clinton. We estimate that anti-Asian incidents spiked by approximately 4200% in Trump-supported counties compared to an increase of approximately 200% in Clinton-supported counties.
 
-## WORKING PAPERS
-
 ***[Early Grade Retention Harms Adult Earnings](/files/pdf/JMP.pdf)***
 
-Accepted at the <ins> American Economic Journal: Applied Economics </ins>
+ <ins> American Economic Journal: Applied Economics </ins> (Forthcoming)
 
 > Abstract: This paper provides new causal evidence on the effects of grade retention on educational attainment, behavioral outcomes, and labor market performance by analyzing Texas's reading test-based retention policy. Using a fuzzy regression discontinuity design, I find that third-grade retention significantly reduces annual earnings at age 26 by $3,477 (19%). While temporarily improving test scores, retention increases absenteeism, violent behavior, and juvenile crime, and reduces the likelihood of high school graduation. Moreover, retained students exhibit higher community college enrollment but lower public university attendance, though neither estimate is statistically significant.
 
-***Grade Retention*** (Joint with Kendall J. Kennedy and Simon ter Meulen. Invited for inclusion in Handbook of Labor, Human Resources and Population Economics, ed. Klaus F. Zimmermann.) (Accepted)
+***Grade Retention*** 
+
+ <ins> Handbook of Labor, Human Resources and Population Economics </ins> (Forthcoming). Joint with Kendall J. Kennedy and Simon ter Meulen.
+
+> Abstract: Grade retention is widely practiced in education systems worldwide, but the effects of grade retention often differ from those of typical educational attainment. This chapter discusses recent research on the causes and consequences of grade retention, covering the effects of grade retention on academic achievement, behavioral outcomes, and labor market outcomes. Furthermore, it also provides an overview of the estimation of the effects of grade retention and a discussion of how retention can affect other research on education and labor markets. Finally, it provides an overview of research on the incentive effects of grade retention policies on retained and non-retained students and makes suggestions for future work in this area.
+
+## WORKING PAPERS
 
 ***The Effect of Access to Pre-Kindergarten on Long-Term Educational and Labor Market Outcomes*** (Joint with Maya Mikdash)
 
 > Abstract: This paper provides new causal evidence on the long-term effects of free prekindergarten access on educational attainment and labor market outcomes. We exploit quasi-random variation from the phased rollout of a 1985 Texas policy that mandated free prekindergarten for disadvantaged children, conditional on the presence of at least 15 eligible students. Using longitudinal administrative data from the Texas ERC, we find precise null effects of access to free Pre-K on labor market outcomes, such as employment and earnings until 23 years after Pre-K. Similarly, we show that access to free Pre-K does not affect the likelihood of graduating high-school or attending college. The null effects are in line with the lack of effects on short term educational and behavioral outcomes.
+
 
 ***Lead in the Air: New Evidence from Piston-Engine Aircraft Emissions*** (Joint with Thao Duong)
 
