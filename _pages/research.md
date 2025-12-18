@@ -48,8 +48,6 @@ Motivation or Stigma? Evaluating the Incentive Effects of Grade Retention Policy
 
 The Impacts of Grade Retention Policy: Evidence on Peer Composition, Tracking, and Educator Preferences (Joint with Kendall J. Kennedy, Simon ter Meulen, and Umut Özek)
 
-Access to Family Planning Services and Inequalities in Education and Labor Market Outcomes (Join with Riley Acton, James Flynn, Daniel Marthey, and Maranna Yoder)
-
 The Hidden Costs of Low-Level Lead Exposure: Evidence on Infant Health (Joint with Tengda Gong)
 
 The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation (Joint with Thao Duong)
