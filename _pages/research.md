@@ -54,7 +54,6 @@ The Hidden Costs of Low-Level Lead Exposure: Evidence on Infant Health (Joint wi
 
 The Impacts of Light and Noise Exposure on Human Capital Formation: Evidence from Wind Farm Operation (Joint with Thao Duong)
 
-The Effects of Reclassifying English Learners as Proficient on Long-Term Educational and Earnings Outcomes (Joint with Yayun Chen and Sijia Zhang)
 
 
 
