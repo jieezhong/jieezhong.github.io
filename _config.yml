@@ -42,7 +42,7 @@ staticman:
         format: "iso8601"
 
 # Social Sharing
-twitter:
+        X:
   username: ZhongJiee
 
 # Analytics
@@ -59,7 +59,7 @@ author:
   location: "Miami University"
   email: "jieezhong@gmail.com"
   linkedin: "jieezhong"
-  twitter: "@ZhongJiee"
+
 
 # Reading Files
 include:
