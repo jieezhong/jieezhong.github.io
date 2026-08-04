@@ -23,7 +23,7 @@ header:
 
 ## HANDBOOK CHAPTER PUBLICATION
 
-***Grade Retention*** 
+***[Grade Retention](https://link.springer.com/rwe/10.1007/978-3-319-57365-6_458-1)*** 
 
  <ins> Handbook of Labor, Human Resources and Population Economics </ins>. Joint with Kendall J. Kennedy and Simon ter Meulen.
 
