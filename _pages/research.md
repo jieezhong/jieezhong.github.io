@@ -11,13 +11,13 @@ header:
 
 ***[Can Social Media Rhetoric Incite Hate Incidents? Evidence from Trump's "Chinese Virus" Tweets](https://www.sciencedirect.com/science/article/pii/S0094119023000608)***
 
- <ins>Journal of Urban Economics, 2023</ins>. Corresponding Author, Joint with Andy Cao and Jason M. Lindo. 
+ <ins>Journal of Urban Economics (2023) </ins>. Corresponding Author, Joint with Andy Cao and Jason M. Lindo. 
 
 > Abstract: We investigate whether Donald Trump's "Chinese Virus" tweets contributed to the rise of anti-Asian incidents. We find that the number of incidents spiked following Trump's initial “Chinese Virus” tweets and the subsequent dramatic rise in internet search activity for the phrase. Difference-in-differences and event-study analyses leveraging spatial variation indicate that this spike in anti-Asian incidents was significantly more pronounced in counties that supported Donald Trump in the 2016 presidential election relative to those that supported Hillary Clinton. We estimate that anti-Asian incidents spiked by approximately 4200% in Trump-supported counties compared to an increase of approximately 200% in Clinton-supported counties.
 
 ***[Early Grade Retention Harms Adult Earnings](/files/pdf/JMP.pdf)***
 
- <ins> American Economic Journal: Applied Economics </ins> 
+ <ins> American Economic Journal: Applied Economics (2026) </ins> 
 
 > Abstract: This paper provides new causal evidence on the effects of grade retention on educational attainment, behavioral outcomes, and labor market performance by analyzing Texas's reading test-based retention policy. Using a fuzzy regression discontinuity design, I find that third-grade retention significantly reduces annual earnings at age 26 by $3,477 (19%). While temporarily improving test scores, retention increases absenteeism, violent behavior, and juvenile crime, and reduces the likelihood of high school graduation. Moreover, retained students exhibit higher community college enrollment but lower public university attendance, though neither estimate is statistically significant.
 
