@@ -25,7 +25,7 @@ header:
 
 ***[Grade Retention](https://link.springer.com/rwe/10.1007/978-3-319-57365-6_458-1)*** 
 
- <ins> Handbook of Labor, Human Resources and Population Economics </ins>. Joint with Kendall J. Kennedy and Simon ter Meulen.
+ <ins> Handbook of Labor, Human Resources and Population Economics (2026)</ins>. Joint with Kendall J. Kennedy and Simon ter Meulen.
 
 > Abstract: Grade retention is widely practiced in education systems worldwide, but the effects of grade retention often differ from those of typical educational attainment. This chapter discusses recent research on the causes and consequences of grade retention, covering the effects of grade retention on academic achievement, behavioral outcomes, and labor market outcomes. Furthermore, it also provides an overview of the estimation of the effects of grade retention and a discussion of how retention can affect other research on education and labor markets. Finally, it provides an overview of research on the incentive effects of grade retention policies on retained and non-retained students and makes suggestions for future work in this area.
 
