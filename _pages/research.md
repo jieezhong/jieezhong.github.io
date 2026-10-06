@@ -38,7 +38,7 @@ header:
 
 ***Low-Level Lead Exposure and Children's Human Capital: Evidence from Piston-Engine Aircraft*** (Joint with Thao Duong)
 
-> Abstract: How harmful are low levels of lead exposure to children's human capital development? We study this question using the sharp increase in piston-engine aircraft activity after 2007 and longitudinal administrative records linking Texas students from elementary school to adulthood. A triple-differences design shows that increased piston-engine aircraft activity and associated lead emissions lower reading achievement, reduce high school graduation and college enrollment, and suggestively lower early-career earnings. Our findings provide causal evidence that even contemporary low-level lead exposure generates persistent losses in human capital, highlighting the benefits of eliminating the remaining sources of airborne lead emissions.
+> Abstract: How harmful are low levels of lead exposure to children's human capital development? We provide new causal evidence by exploiting a post-2007 surge in piston-engine aircraft activity, the largest remaining source of airborne lead emissions in the United States, driven by flight-training demand. Using a triple-differences design and longitudinal administrative data, we find that students attending schools within one mile of high-surge airports score 0.168 standard deviations lower on reading tests and are 6\% and 25\% less likely to graduate from high school and enroll in a public university, respectively. Estimated effects on behavioral outcomes are small and statistically insignificant.
 
 
 
