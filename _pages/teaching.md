@@ -10,7 +10,8 @@ header:
 
 
 ## Instructor
-- ECON 420R: Public Economics (Fall 2025)
+- ECO 415/515: Topics in Microeconomics (Spring 2027)
+- ECON 420R: Public Economics (Fall 2025, Spring 2027)
 - ECON 315: Intermediate Microeconomic Theory (Spring 2026, Fall 2025, Spring 2025, Fall 2024, Summer 2022)
 - Econometrics: Ph.D. Qualifier Camp (Summer 2022)
 ## Teaching Assistant
