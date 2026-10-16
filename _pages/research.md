@@ -38,6 +38,7 @@ header:
 <summary style="cursor:pointer; color:#2a7ae2;">Show abstract</summary>
 > Grade retention is widely practiced in education systems worldwide, but the effects of grade retention often differ from those of typical educational attainment. This chapter discusses recent research on the causes and consequences of grade retention, covering the effects of grade retention on academic achievement, behavioral outcomes, and labor market outcomes. Furthermore, it also provides an overview of the estimation of the effects of grade retention and a discussion of how retention can affect other research on education and labor markets. Finally, it provides an overview of research on the incentive effects of grade retention policies on retained and non-retained students and makes suggestions for future work in this area.
 </details>
+
 ## WORKING PAPERS
 
 ***[Do State-Funded Pre-K Programs Improve Long-Run Outcomes?](/files/pdf/Prek.pdf)*** (Joint with Maya Mikdash) \| [IZA DP No. 18790](https://docs.iza.org/dp18790.pdf)
